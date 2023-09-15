@@ -7,3 +7,5 @@ tags:
 ---
 
 **Coded by @tahribtajwarmusic**
+
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
